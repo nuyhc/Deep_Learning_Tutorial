@@ -8,3 +8,5 @@
 *.doc
 *.txt
 *.rtf
+
+*.DS_Store
