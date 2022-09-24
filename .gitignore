@@ -13,3 +13,6 @@
 
 *.v2
 *.index
+*.ckpt
+*.data-00000-of-00001
+*.pbtxt
