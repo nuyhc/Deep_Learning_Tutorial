@@ -10,3 +10,6 @@
 *.rtf
 
 *.DS_Store
+
+*.v2
+*.index
