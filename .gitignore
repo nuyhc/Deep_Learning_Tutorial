@@ -12,6 +12,8 @@
 
 *.DS_Store
 
+data/
+
 # SFB
 mnist.*
 common/
